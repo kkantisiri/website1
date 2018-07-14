@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "AppBot Documentation\n\n\nWelcome\n\n\nWelcome to the AppBot Documentation!\n\nInvite the bot to your server by clicking the image below\n\n\n\n\n \n\nMake sure to join \nthe support server\n if you ever need any help.\n \n\nIf you want to donate and make the bot better \nclick here\n \n\nTo keep the bot developers encouraged to keep the bot, vote for the bot by \nclicking here\n\n\nContent\n\n\n\n\nGetting Started\n\n\nFirst Application", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#appbot-documentation", 
+            "text": "", 
+            "title": "AppBot Documentation"
+        }, 
+        {
+            "location": "/#welcome", 
+            "text": "Welcome to the AppBot Documentation! \nInvite the bot to your server by clicking the image below     \nMake sure to join  the support server  if you ever need any help.   \nIf you want to donate and make the bot better  click here   \nTo keep the bot developers encouraged to keep the bot, vote for the bot by  clicking here", 
+            "title": "Welcome"
+        }, 
+        {
+            "location": "/#content", 
+            "text": "Getting Started  First Application", 
+            "title": "Content"
+        }, 
+        {
+            "location": "/getting-started/", 
+            "text": "Getting Started\n\n\nMaking your first application\n\n\nThank you for adding AppBot to your server. This section of the documentation will explain how to set up\nyour first application.\n\n\nStep One", 
+            "title": "Getting Started"
+        }, 
+        {
+            "location": "/getting-started/#getting-started", 
+            "text": "", 
+            "title": "Getting Started"
+        }, 
+        {
+            "location": "/getting-started/#making-your-first-application", 
+            "text": "Thank you for adding AppBot to your server. This section of the documentation will explain how to set up\nyour first application.", 
+            "title": "Making your first application"
+        }, 
+        {
+            "location": "/getting-started/#step-one", 
+            "text": "", 
+            "title": "Step One"
+        }, 
+        {
+            "location": "/commands/", 
+            "text": "Commands\n\n\n\n\n\n\n\n\nCommand\n\n\nDescription\n\n\nUsage", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/commands/#commands", 
+            "text": "Command  Description  Usage", 
+            "title": "Commands"
+        }
+    ]
+}
